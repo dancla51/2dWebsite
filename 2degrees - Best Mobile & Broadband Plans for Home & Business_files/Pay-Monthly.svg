@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M35 39H9" stroke="#1D292E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 31V43C35 45.2 33.2 47 31 47H13C10.8 47 9 45.2 9 43V5C9 2.8 10.8 1 13 1H23" stroke="#1D292E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="22.0403" cy="42.855" r="1" stroke="#1D292E"/>
+<rect x="20.5861" y="5.72101" width="15.6651" height="19.5291" rx="1" fill="#FFC528"/>
+<path d="M23.7189 10.1595H34.1623" stroke="#1D292E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7189 13.7102H34.1622" stroke="#1D292E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7189 17.261H29.9849" stroke="#1D292E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="path-8-inside-1" fill="white">
+<rect x="19.5417" y="4.83331" width="19.1667" height="21.3045" rx="1"/>
+</mask>
+<rect x="19.5417" y="4.83331" width="19.1667" height="21.3045" rx="1" stroke="#1D292E" stroke-width="3" mask="url(#path-8-inside-1)"/>
+</svg>

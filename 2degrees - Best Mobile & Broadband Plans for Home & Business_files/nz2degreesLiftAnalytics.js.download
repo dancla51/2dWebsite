@@ -1,0 +1,17 @@
+(function (dataLayer) {
+  /**
+   * On successful page load, push acquia lift user segments into datalayer.
+   */
+  window.addEventListener('load', function () {
+    if (window.AcquiaLift) {
+      var segments = window.AcquiaLift.currentSegments;
+      if (segments) {
+        var segmentIds = segments.map(function (segment) {
+          return segment.name;
+        });
+        var segmentList = segmentIds.join(", ");
+        dataLayer[0].user.userInfo.currentSegments = segmentList;
+      }
+    }
+  });
+})(dataLayer);
