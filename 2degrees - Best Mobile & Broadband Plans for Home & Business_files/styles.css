@@ -5675,3 +5675,12 @@ button:hover{cursor:pointer}
 .tippy-content{padding:16px;font-size:16px;line-height:24px}
 
 .tippy-box{background-color:#1d292e}
+
+audio::-webkit-media-controls-panel {
+    background-color: #56AEFF;
+}
+  
+
+audio::-webkit-media-controls-current-time-display {
+    color: #fff;
+}
